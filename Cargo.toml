@@ -1,0 +1,8 @@
+[package]
+
+name = "shasumrust"
+version = "0.0.1"
+authors = ["Stephen J. Day <stevvooe@gmail.com>"]
+
+[dependencies]
+rust-crypto = "^0.2"
